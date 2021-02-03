@@ -1,6 +1,5 @@
 # Repo with my solution for HackerRank.com's challenges.
 
-![Alt text](https://i.ibb.co/qjt3kW6/Untitled.png)
 ## Progress:
 - [ ] **Python** [https://www.hackerrank.com/domains/python]
 - 33 challanges solved
